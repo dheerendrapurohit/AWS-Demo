@@ -50,6 +50,11 @@
 			<artifactId>sns</artifactId>
 			<version>2.25.27</version>
 		</dependency>
+		<dependency>
+			<groupId>software.amazon.awssdk</groupId>
+			<artifactId>sqs</artifactId>
+			<version>2.25.64</version>
+		</dependency>
 	</dependencies>
 
 	<build>
