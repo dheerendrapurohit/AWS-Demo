@@ -22,3 +22,7 @@ This project demonstrates how to integrate **Amazon SQS (Simple Queue Service)**
 4.# AWS Kinesis Event Streaming with Spring Boot
 
 This project demonstrates how to use **Spring Boot** with the **AWS SDK v2** to produce and consume events using **Amazon Kinesis Data Streams**.
+
+5.# AWS ElastiCache (Redis) with Spring Boot
+
+This project demonstrates how to connect a **Spring Boot application** with **AWS ElastiCache Redis (Cluster Mode Enabled)**.
