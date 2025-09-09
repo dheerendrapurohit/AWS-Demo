@@ -26,3 +26,8 @@ This project demonstrates how to use **Spring Boot** with the **AWS SDK v2** to 
 5.# AWS ElastiCache (Redis) with Spring Boot
 
 This project demonstrates how to connect a **Spring Boot application** with **AWS ElastiCache Redis (Cluster Mode Enabled)**.
+
+6.# Twilio SMS Demo (Spring Boot)
+
+This project is a simple Spring Boot application that demonstrates how to send SMS messages using **Twilio**.
+
