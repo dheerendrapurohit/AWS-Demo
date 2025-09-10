@@ -31,3 +31,15 @@ This project demonstrates how to connect a **Spring Boot application** with **AW
 
 This project is a simple Spring Boot application that demonstrates how to send SMS messages using **Twilio**.
 
+7.# Spring Boot + SendGrid Email Example
+
+This project demonstrates how to send emails using **SendGrid** in a Spring Boot application.
+
+---
+
+  ## Features
+  - REST API endpoint to send an email
+  - Uses SendGrid Java SDK
+  - Configuration via `application.properties`
+
+
